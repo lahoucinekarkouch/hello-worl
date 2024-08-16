@@ -2,7 +2,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="name"><b>Name</b></label>
+    <label for="name"><b>Naame</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
     <label for="name"><b>Email</b></label>
